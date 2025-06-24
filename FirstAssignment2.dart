@@ -30,7 +30,7 @@ class ProfileScreen extends StatelessWidget {
                 // Centered Title
                 Center(
                   child: Text(
-                    'Profile Info',
+                    'Profile Information',
                     style: TextStyle(
                       fontSize: 22,
                       fontWeight: FontWeight.bold,
